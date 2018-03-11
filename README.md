@@ -1,2 +1,3 @@
-# NSS Boy Bands exercise for Javascript 
-##The Static Web
+# Boy Bands & Veggies
+
+Practice appending content to the DOM through looping in Javascript
